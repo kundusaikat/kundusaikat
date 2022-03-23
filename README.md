@@ -1,3 +1,4 @@
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
 <h1 align="center">Hi 👋, I'm Saikat Kundu</h1>
 <h3 align="center">Skilled full-stack web developer with a passion for metrics with a specialization in MERN stack. Self-motivated, collaborative, and prepared for every challenge. Excited about building interactive, fast and easy-to-use websites.</h3>
 
