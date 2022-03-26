@@ -1,21 +1,62 @@
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
-<h1 align="center">Hi 👋, I'm Saikat Kundu</h1>
-<h3 align="center">Skilled full-stack web developer with a passion for metrics with a specialization in MERN stack. Self-motivated, collaborative, and prepared for every challenge. Excited about building interactive, fast and easy-to-use websites.</h3>
+<h1 align="center">Hi 👋, I'm Saikat Kundu  <img src="https://media-exp1.licdn.com/dms/image/C5603AQFSUGuOKWw7cQ/profile-displayphoto-shrink_800_800/0/1644909247845?e=1653523200&v=beta&t=fobgoQyo_8YGhVapwEYKYjWUBj72wyA5RXbZpsratuQ" width="50px"</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kundusaikat&label=Profile%20views&color=0e75b6&style=flat" alt="kundusaikat" /> </p>
+##  🙋‍♂️ Who Am I?
+<h3 >I'm a passionate Full Stack Web Developer from India.</h3>
+<p>I'm enthusiastic about learning new technologies and also solving problems in mathematics to solving problems in software engineering,I have developed excellent problem-solving skill that is necessary to solve complex problems.This skill also help me to solve Data structure and algorithms problems.</p>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QvflGH5R_BklVGjtSA_07nq1nQGidRV4/view?usp=sharing](https://drive.google.com/file/d/1QvflGH5R_BklVGjtSA_07nq1nQGidRV4/view?usp=sharing)
+ - 🌱 I’m currently learning *MERN Stack*
+- 👯 I’m looking to collaborate on *OpenSource Projects*
+- 🌱 I’m currently learning various new technologies.
+ - 👨‍💻 All of my projects are available at **[My Portfolio](https://saikatkundu.vercel.app/)**
+<!--  - 📫 How to reach me *kundusaikat32@gmail.com* -->
+- 💬 Ask me about anything, I am happy to help;
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kundusaikat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kundusaikat" height="30" width="40" /></a>
+  ## 🚀 Languages and Tools:
+
+<!-- <p align="left"> 
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>  
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
+    <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
+   <img src="https://img.icons8.com/color/48/000000/git.png"/> 
+  
+</p> -->
+ <p align="center" >
+  <img  src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png">
+  </p>
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+<br/>
+<p align="center"><img alt="Saikat Kundu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundusaikat&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+       
 </p>
+ 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+## 📊 My Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kundusaikat&show_icons=true&locale=en&layout=compact" alt="kundusaikat" /></p>
+  <br/>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kundusaikat&show_icons=true&locale=en&theme=highcontrast" alt="kundusaikat" /></p>
+<br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kundusaikat&&theme=highcontrast" alt="kundusaikat" /></p>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kundusaikat&show_icons=true&locale=en" alt="kundusaikat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kundusaikat&" alt="kundusaikat" /></p>
+<br/>
+<br/>
+<img alt="Saikat Kundu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kundusaikat&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+
+<br/>
+<br/>
+
+## Contact Me ☎️
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/kundusaikat/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+ * Mail me on kundusaikat32@gmail.com
+
+</p>
