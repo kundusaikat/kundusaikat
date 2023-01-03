@@ -49,6 +49,8 @@
 <br/>
 <br/>
 <img alt="Saikat Kundu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kundusaikat&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+ 
+ [![Saikat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kundusaikat)](https://github.com/kundusaikat/github-readme-activity-graph)
 
 <br/>
 <br/>
